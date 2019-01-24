@@ -1,5 +1,5 @@
 {
-    "name": "laravel-enso/howtovideos",
+    "name": "boing6002/howtovideos",
     "description": "How to video manager for Laravel Enso",
     "keywords": [
         "laravel-enso",
@@ -19,14 +19,14 @@
     ],
     "require": {
         "php": ">=7.1.0",
-        "laravel-enso/activitylog": "1.1.*",
-        "laravel-enso/core": "3.5.*",
-        "laravel-enso/filemanager": "2.5.*",
-        "laravel-enso/helpers": "1.10.*",
-        "laravel-enso/imagetransformer": "1.4.*",
-        "laravel-enso/select": "2.8.*",
-        "laravel-enso/structuremanager": "2.5.*",
-        "laravel-enso/vuecomponents": "2.7.*"
+        "boing6002/activitylog": "dev-master",
+        "boing6002/core": "dev-master",
+        "boing6002/filemanager": "dev-master",
+        "boing6002/helpers": "dev-master",
+        "boing6002/imagetransformer": "dev-master",
+        "boing6002/select": "dev-master",
+        "boing6002/structuremanager": "dev-master",
+        "boing6002/vuecomponents": "dev-master"
     },
     "autoload": {
         "psr-4": {
